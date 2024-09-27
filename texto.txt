@@ -1,1 +1,3 @@
 Arquivo teste para a participação na Oficina de Git
+
+Arquivo teste para a participação na Oficina da Liprog!
